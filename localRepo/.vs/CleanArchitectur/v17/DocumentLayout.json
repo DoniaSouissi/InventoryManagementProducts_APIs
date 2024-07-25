@@ -1,0 +1,541 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\application\\features\\productfeature\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|solutionrelative:application\\features\\productfeature\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\application\\features\\productfeature\\queries\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|solutionrelative:application\\features\\productfeature\\queries\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\application\\features\\productfeature\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|solutionrelative:application\\features\\productfeature\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\application\\features\\productfeature\\commands\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|solutionrelative:application\\features\\productfeature\\commands\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\application\\features\\productfeature\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|solutionrelative:application\\features\\productfeature\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\application\\features\\productfeature\\commands\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|solutionrelative:application\\features\\productfeature\\commands\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|solutionrelative:api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Persistance\\Migrations\\20240724110800_CreateInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistance\\Migrations\\20240724110800_CreateInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\api\\controllers\\testcontrollernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|solutionrelative:api\\controllers\\testcontrollernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\application\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|solutionrelative:application\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO_ADDINN\\Desktop\\Projet Product\\Persistance\\Migrations\\20240723152443_CreateInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A081859-EA41-44B6-B799-CF84F0C4EE2E}|Domain\\Domain.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A081859-EA41-44B6-B799-CF84F0C4EE2E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A081859-EA41-44B6-B799-CF84F0C4EE2E}|Domain\\Domain.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\domain\\entities\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A081859-EA41-44B6-B799-CF84F0C4EE2E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11ABDD86-2ACD-474F-999E-FA031E1EC47C}|Persistance\\Persistance.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\persistance\\data\\cleanarchitecturecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11ABDD86-2ACD-474F-999E-FA031E1EC47C}|Persistance\\Persistance.csproj|solutionrelative:persistance\\data\\cleanarchitecturecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11ABDD86-2ACD-474F-999E-FA031E1EC47C}|Persistance\\Persistance.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\persistance\\persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11ABDD86-2ACD-474F-999E-FA031E1EC47C}|Persistance\\Persistance.csproj|solutionrelative:persistance\\persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\api\\extension\\swaggerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|solutionrelative:api\\extension\\swaggerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\application\\features\\testfeature\\queries\\getalltestnewquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|solutionrelative:application\\features\\testfeature\\queries\\getalltestnewquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11ABDD86-2ACD-474F-999E-FA031E1EC47C}|Persistance\\Persistance.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\persistance\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11ABDD86-2ACD-474F-999E-FA031E1EC47C}|Persistance\\Persistance.csproj|solutionrelative:persistance\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11ABDD86-2ACD-474F-999E-FA031E1EC47C}|Persistance\\Persistance.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\persistance\\repositories\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11ABDD86-2ACD-474F-999E-FA031E1EC47C}|Persistance\\Persistance.csproj|solutionrelative:persistance\\repositories\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\api\\extension\\contextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5FD672-A52F-492E-B5B5-6C63372B865A}|API\\API.csproj|solutionrelative:api\\extension\\contextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\application\\features\\productfeature\\validators\\addproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|solutionrelative:application\\features\\productfeature\\validators\\addproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|c:\\users\\asus\\desktop\\projet products\\projet product\\application\\features\\productfeature\\validators\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1304038-8445-4DAE-B527-250FC828FE7F}|Application\\Application.csproj|solutionrelative:application\\features\\productfeature\\validators\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 126,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Commands\\AddProductCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ProductFeature\\Commands\\AddProductCommand.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Commands\\AddProductCommand.cs",
+              "RelativeToolTip": "Application\\Features\\ProductFeature\\Commands\\AddProductCommand.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:28:12.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Commands\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ProductFeature\\Commands\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Commands\\UpdateProductCommand.cs",
+              "RelativeToolTip": "Application\\Features\\ProductFeature\\Commands\\UpdateProductCommand.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:34:23.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Commands\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ProductFeature\\Commands\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Commands\\DeleteProductCommand.cs",
+              "RelativeToolTip": "Application\\Features\\ProductFeature\\Commands\\DeleteProductCommand.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvykAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:57:52.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Queries\\GetAllProductQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ProductFeature\\Queries\\GetAllProductQuery.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Queries\\GetAllProductQuery.cs",
+              "RelativeToolTip": "Application\\Features\\ProductFeature\\Queries\\GetAllProductQuery.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvy0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:24:43.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Dtos\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ProductFeature\\Dtos\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Dtos\\ProductDTO.cs",
+              "RelativeToolTip": "Application\\Features\\ProductFeature\\Dtos\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:24:18.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Queries\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ProductFeature\\Queries\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Queries\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\ProductFeature\\Queries\\GetProductByIdQuery.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:35:43.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAIA/wFsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:57:57.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T15:38:10.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:06:04.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T11:06:14.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240724110800_CreateInit.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Persistance\\Migrations\\20240724110800_CreateInit.cs",
+              "RelativeDocumentMoniker": "Persistance\\Migrations\\20240724110800_CreateInit.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Persistance\\Migrations\\20240724110800_CreateInit.cs",
+              "RelativeToolTip": "Persistance\\Migrations\\20240724110800_CreateInit.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:08:00.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestControllerNew.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\Controllers\\TestControllerNew.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TestControllerNew.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\Controllers\\TestControllerNew.cs",
+              "RelativeToolTip": "API\\Controllers\\TestControllerNew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:07:24.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T11:19:13.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T13:11:14.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T13:11:16.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Domain\\Entities\\Test.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Test.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Domain\\Entities\\Test.cs",
+              "RelativeToolTip": "Domain\\Entities\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:18:07.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240723152443_CreateInit.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_ADDINN\\Desktop\\Projet Product\\Persistance\\Migrations\\20240723152443_CreateInit.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\LENOVO_ADDINN\\Desktop\\Projet Product\\Persistance\\Migrations\\20240723152443_CreateInit.cs",
+              "ToolTip": "C:\\Users\\LENOVO_ADDINN\\Desktop\\Projet Product\\Persistance\\Migrations\\20240723152443_CreateInit.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\LENOVO_ADDINN\\Desktop\\Projet Product\\Persistance\\Migrations\\20240723152443_CreateInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:24:44.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Persistance.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Persistance\\Persistance.csproj",
+              "RelativeDocumentMoniker": "Persistance\\Persistance.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Persistance\\Persistance.csproj",
+              "RelativeToolTip": "Persistance\\Persistance.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T13:07:51.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-23T11:49:54.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Application\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Application\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:30:08.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Persistance\\Repositories\\TestRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Repositories\\TestRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Persistance\\Repositories\\TestRepository.cs",
+              "RelativeToolTip": "Persistance\\Repositories\\TestRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:17:06.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CleanArchitectureContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Persistance\\Data\\CleanArchitectureContext.cs",
+              "RelativeDocumentMoniker": "Persistance\\Data\\CleanArchitectureContext.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Persistance\\Data\\CleanArchitectureContext.cs",
+              "RelativeToolTip": "Persistance\\Data\\CleanArchitectureContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:56:33.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Persistance\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Persistance\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Persistance\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:59:28.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetAllTestNewQuery.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\TestFeature\\Queries\\GetAllTestNewQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\TestFeature\\Queries\\GetAllTestNewQuery.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\TestFeature\\Queries\\GetAllTestNewQuery.cs",
+              "RelativeToolTip": "Application\\Features\\TestFeature\\Queries\\GetAllTestNewQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:25:33.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:20:54.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContextExtension.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\Extension\\ContextExtension.cs",
+              "RelativeDocumentMoniker": "API\\Extension\\ContextExtension.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\Extension\\ContextExtension.cs",
+              "RelativeToolTip": "API\\Extension\\ContextExtension.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:19:35.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SwaggerExtension.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\Extension\\SwaggerExtension.cs",
+              "RelativeDocumentMoniker": "API\\Extension\\SwaggerExtension.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\API\\Extension\\SwaggerExtension.cs",
+              "RelativeToolTip": "API\\Extension\\SwaggerExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:18:48.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Validators\\AddProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ProductFeature\\Validators\\AddProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Validators\\AddProductCommandValidator.cs",
+              "RelativeToolTip": "Application\\Features\\ProductFeature\\Validators\\AddProductCommandValidator.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:58:01.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Validators\\UpdateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ProductFeature\\Validators\\UpdateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projet Products\\Projet Product\\Application\\Features\\ProductFeature\\Validators\\UpdateProductCommandValidator.cs",
+              "RelativeToolTip": "Application\\Features\\ProductFeature\\Validators\\UpdateProductCommandValidator.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:43:38.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
